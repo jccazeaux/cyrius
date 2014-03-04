@@ -7,8 +7,8 @@ Usage
 ==========
 TODO
 
- LICENCE
- =========
+LICENCE
+==========
  Copyright (C) 2014 Jean-Christophe Cazeaux
 
 
